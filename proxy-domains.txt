@@ -236,3 +236,12 @@ watchdisneyfe.com
 my.freenom.com
 openai.com
 chat.openai.com
+chatgpt.com
+beta.openai.com
+platform.openai.com
+auth0.openai.com
+auth1.openai.com
+auth2.openai.com
+api.openai.com
+oaistatic.com
+files.oaiusercontent.com
